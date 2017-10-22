@@ -1,0 +1,14 @@
+{
+  "name": "calc.js",
+  "version": "1.0.0",
+  "description": "A command line calculator written in Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Tania Rascia",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
