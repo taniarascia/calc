@@ -8,6 +8,6 @@ Make a calculator in Node.js and use the Mocha testing framework.
 
 ```
 git clone https://github.com/taniarascia/calc.js
-npm install
+npm install --save-dev mocha
 node calc.js
 ```
